@@ -1,5 +1,4 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="robot_delay" id="163" inline="true" x="-559" y="-348"></block>
   <block type="movement_setmotors" id="61" inline="true" x="-237" y="-208">
     <value name="BOTHMOVLEFT">
       <block type="math_number" id="70">
